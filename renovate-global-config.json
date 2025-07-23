@@ -1,0 +1,6 @@
+{
+    "branchPrefix": "renovate/",
+    "onboarding": true,
+    "platform": "github",
+    "autodiscover": true
+  }
